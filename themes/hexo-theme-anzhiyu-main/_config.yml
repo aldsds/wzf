@@ -358,7 +358,7 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://gregarious-praline-a0a586.netlify.app/.netlify/functions/twikoo
+  envId: https://wzfoupl.netlify.app/.netlify/functions/twikoo
   region:
   visitor: false
   option:
